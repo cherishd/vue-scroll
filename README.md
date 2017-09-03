@@ -2,8 +2,12 @@
 
 > scroll directive based on Vue
 
+execute callback function when element scrolls out of page
+
 # Example
 [Demo Page](https://cherishd.github.io/vue-scroll/)
+
+when header or footer scroll out of page, it will be fixed on top or bottom
 
 ## Build Setup
 
