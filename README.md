@@ -1,4 +1,4 @@
-# vue-carousel
+# vue-scroll
 
 > scroll directive based on Vue
 
