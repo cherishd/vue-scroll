@@ -2,7 +2,7 @@
   <div id="app">
     <h1>Vue Scroll</h1>
     <ul>
-      <li v-for="i in 5" :key="i" class="card">
+      <li v-for="i in 3" :key="i" class="card">
         <item :index="i"></item>
       </li>
     </ul>
